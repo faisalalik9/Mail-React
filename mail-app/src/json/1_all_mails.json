@@ -1,0 +1,44 @@
+[
+	{
+		"mId": "guid-1",
+		"unread": true,
+		"subject" : "Training Program",
+		"subcontent": "This is an example email Number 1",
+		"content" : "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-2",
+		"unread": false,
+		"subject" : "Empower your future",
+		"subcontent": "This is an example email Number 1",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "guid-3",
+		"unread": true,
+		"subject" : "Empower your future",
+		"subcontent": "Welcome to your new Outlook account",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "guid-4",
+		"unread": false,
+		"subject" : "Empower your future",
+		"subcontent": "This is an example email Number 1",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+    {
+		"mId": "guid-5",
+		"unread": true,
+		"subject" : "Pre Approved Loan",
+		"subcontent": "This is an example spam email Number 1",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+	},
+	{
+		"mId": "guid-6",
+		"unread": true,
+		"subject" : "You won a lottery!",
+		"subcontent": "This is an example spam email Number 2",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	}
+]

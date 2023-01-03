@@ -1,13 +1,13 @@
 [
 	{
-		"mId": "guid-3",
+		"mId": "guid-5",
 		"unread": true,
 		"subject" : "Pre Approved Loan",
 		"subcontent": "This is an example spam email Number 1",
 		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
 	},
 	{
-		"mId": "guid-4",
+		"mId": "guid-6",
 		"unread": true,
 		"subject" : "You won a lottery!",
 		"subcontent": "This is an example spam email Number 2",
